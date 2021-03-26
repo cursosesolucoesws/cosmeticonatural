@@ -852,6 +852,27 @@ a {
   text-align: center;
   color: #232323;
 }
+.cid-ssNahb1Des {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-ssNahb1Des .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ssNahb1Des .row {
+  flex-direction: row-reverse;
+}
+.cid-ssNahb1Des img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-ssNahb1Des .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sp6MqjbjN1 {
   padding-top: 5rem;
   padding-bottom: 6rem;
